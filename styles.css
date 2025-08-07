@@ -64,7 +64,7 @@ body {
     font-size: 0.875rem;
     font-weight: 400;
     border: 0.125rem solid hsl(0, 0%, 95%);
-    padding: 0.75rem 1.5rem;
+    padding: 0.75rem 2rem;
     border-radius: 1.5rem;
     transition: background-color 0.3s ease, color 0.3s ease;
 }
@@ -134,7 +134,7 @@ body {
     }
 
     .card div a {
-        margin-top: 3rem;
+        margin-top: 3.5rem;
     }
 }
 
