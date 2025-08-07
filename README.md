@@ -8,7 +8,7 @@ This is my solution to the [3-column preview card component challenge on Fronten
 
 ## 🔗 Live site
 
-👉 [Click here to view the live site](https://rommyandrea.github.io/3-column-preview-card/)
+👉 [Click here to view the live site](https://rommyandrea.github.io/)
 
 ## 🛠️ Built with
 
